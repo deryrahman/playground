@@ -1,0 +1,3 @@
+[submodule "playground-airflow"]
+	path = playground-airflow
+	url = git@github.com:deryrahman/playground-airflow.git
