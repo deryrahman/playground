@@ -1,3 +1,6 @@
 [submodule "playground-airflow"]
 	path = playground-airflow
 	url = git@github.com:deryrahman/playground-airflow.git
+[submodule "playground-kubernetes"]
+	path = playground-kubernetes
+	url = git@github.com:deryrahman/playground-kubernetes.git
